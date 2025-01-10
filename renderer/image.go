@@ -5,9 +5,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/kovetskiy/mark/attachment"
-	"github.com/kovetskiy/mark/stdlib"
-	"github.com/kovetskiy/mark/vfs"
+	"github.com/kassemsandarusi/mark/attachment"
+	"github.com/kassemsandarusi/mark/stdlib"
+	"github.com/kassemsandarusi/mark/vfs"
 
 	"github.com/yuin/goldmark/ast"
 	"github.com/yuin/goldmark/renderer"

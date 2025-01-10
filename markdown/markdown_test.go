@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/kovetskiy/mark/stdlib"
+	"github.com/kassemsandarusi/mark/stdlib"
 	"github.com/stretchr/testify/assert"
 )
 

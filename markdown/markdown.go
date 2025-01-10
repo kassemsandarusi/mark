@@ -3,10 +3,10 @@ package mark
 import (
 	"bytes"
 
-	"github.com/kovetskiy/mark/attachment"
-	cparser "github.com/kovetskiy/mark/parser"
-	crenderer "github.com/kovetskiy/mark/renderer"
-	"github.com/kovetskiy/mark/stdlib"
+	"github.com/kassemsandarusi/mark/attachment"
+	cparser "github.com/kassemsandarusi/mark/parser"
+	crenderer "github.com/kassemsandarusi/mark/renderer"
+	"github.com/kassemsandarusi/mark/stdlib"
 	"github.com/reconquest/pkg/log"
 	"github.com/yuin/goldmark"
 

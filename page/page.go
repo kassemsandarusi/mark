@@ -3,8 +3,8 @@ package page
 import (
 	"strings"
 
-	"github.com/kovetskiy/mark/confluence"
-	"github.com/kovetskiy/mark/metadata"
+	"github.com/kassemsandarusi/mark/confluence"
+	"github.com/kassemsandarusi/mark/metadata"
 	"github.com/reconquest/karma-go"
 	"github.com/reconquest/pkg/log"
 )
