@@ -1,4 +1,4 @@
-module github.com/kovetskiy/mark
+module github.com/kassemsandarusi/mark
 
 go 1.23
 
